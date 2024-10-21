@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blathort.github.io/blathort.txt.gz
+Sitemap: https://blathort.github.io/app/blathort.txt.gz
+Sitemap: https://blathort.github.io/assets/blathort.txt.gz
+Sitemap: https://blathort.github.io/css/blathort.txt.gz
+Sitemap: https://blathort.github.io/includes/blathort.txt.gz
+Sitemap: https://blathort.github.io/item/blathort.txt.gz
+Sitemap: https://blathort.github.io/src/blathort.txt.gz
